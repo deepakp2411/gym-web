@@ -9,7 +9,6 @@ const Footer = () => {
       <div
         className="container mx-auto h-full flex justify-between items-center md:items-end md:mb-[20px]"
         data-aos="fade-up"
-        data-aos-delay="200"
       >
         <a href="/">
           <img src={logo} alt="ak" />
